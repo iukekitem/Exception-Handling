@@ -1,0 +1,2 @@
+Hello from Java.
+Java is fun!
